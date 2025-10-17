@@ -20,7 +20,7 @@ room_admins = {
 room. Inside you notice Matt "MJ" John and Simon Jones. They
 ignore you. To the north is the reception.""",
 
-    "exits": {"north": "Recption"}
+    "exits": {"north": "Reception"}
 }
 
 room_tutor = {
